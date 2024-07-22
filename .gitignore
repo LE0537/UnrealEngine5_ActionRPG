@@ -23,7 +23,7 @@
 *.lai
 *.la
 *.a
-*.lib
+*.libnc
 
 # Executables
 *.exe
@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+SM_NorwayMaple_Field_01_PP.uasset
+SM_NorwayMaple_Field_02_PP.uasset
+SM_NorwayMaple_Field_01.uasset
+SM_NorwayMaple_Field_02.uasset
